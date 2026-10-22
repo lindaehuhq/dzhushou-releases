@@ -2,40 +2,40 @@
   "schemaVersion": 2,
   "productId": "dzhushou",
   "channel": "stable",
-  "revision": 6,
-  "generatedAt": "2026-10-22T06:06:50Z",
+  "revision": 7,
+  "generatedAt": "2026-10-22T17:28:24Z",
   "enabled": true,
   "latestVersion": "1.9.0",
-  "build": 1,
+  "build": 2,
   "minimumVersion": "",
   "blockedVersions": [],
   "allowDowngrade": false,
-  "force": false,
+  "force": true,
   "forceAfter": "",
   "rolloutPercent": 100,
   "rolloutSalt": "1.9.0",
   "recheckIntervalMinutes": 240,
-  "publishedAt": "2026-10-22T05:50:09Z",
+  "publishedAt": "2026-10-22T17:28:14Z",
   "title": "新增统计中心、列表搜索与做单Key",
   "notes": "1. 新增统计中心：管理页「统计信息」旁点「统计中心」，查看运行中、在线、掉线、未登录等数量和近 7 天每天新上号，点卡片或日期可筛选列表\n2. 统计中心可导出当前列表：端口、登录状态、登录用户、备注、第一次上号时间，Excel、WPS 直接打开\n3. 新增列表搜索：按端口（比特模式为序号）、备注、登录用户搜索，可和左侧筛选一起用\n4. 新增做单Key：平台设置里选「做单Key」，粘贴做单Key 就能领任务，不用再填账号密码\n5. 备注可双击直接修改：回车或点别处保存，运行中也能改",
-  "releasePageUrl": "https://github.com/lindaehuhq/dzhushou-releases/releases/tag/v1.9.0",
+  "releasePageUrl": "https://github.com/lindaehuhq/dzhushou-releases/releases/tag/v1.9.0-b2",
   "assets": {
     "windows-amd64": {
       "fileName": "dzhushou-1.9.0-windows-amd64.exe",
-      "size": 8153632,
-      "sha256": "d77db2774b80f6986f2f173025b9ce97d880a6b47d10c642d64e114b20cf7bf0",
+      "size": 8155680,
+      "sha256": "7b4db80bfb76306d419409c37b2ae0add64f0a021c82c3edc01bd74f70ede8cc",
       "downloadUrls": [
-        "https://gh-proxy.com/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.0/dzhushou-1.9.0-windows-amd64.exe",
-        "https://ghfast.top/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.0/dzhushou-1.9.0-windows-amd64.exe",
-        "https://ghproxy.net/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.0/dzhushou-1.9.0-windows-amd64.exe",
-        "https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.0/dzhushou-1.9.0-windows-amd64.exe"
+        "https://gh-proxy.com/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.0-b2/dzhushou-1.9.0-windows-amd64.exe",
+        "https://ghfast.top/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.0-b2/dzhushou-1.9.0-windows-amd64.exe",
+        "https://ghproxy.net/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.0-b2/dzhushou-1.9.0-windows-amd64.exe",
+        "https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.0-b2/dzhushou-1.9.0-windows-amd64.exe"
       ]
     }
   },
   "announcement": {
-    "enabled": true,
-    "id": "db82d358b08e",
-    "message": "新版本已发布：新增统计中心、列表搜索和做单Key。更新前请先停止所有浏览器。",
+    "enabled": false,
+    "id": "",
+    "message": "",
     "startsAt": "",
     "endsAt": ""
   }
