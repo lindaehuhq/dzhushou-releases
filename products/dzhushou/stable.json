@@ -2,33 +2,35 @@
   "schemaVersion": 2,
   "productId": "dzhushou",
   "channel": "stable",
-  "revision": 12,
-  "generatedAt": "2026-11-13T13:32:20Z",
+  "revision": 13,
+  "generatedAt": "2026-11-13T13:37:22Z",
   "enabled": true,
-  "latestVersion": "1.9.2",
+  "latestVersion": "1.9.3",
   "build": 1,
   "minimumVersion": "",
-  "blockedVersions": [],
+  "blockedVersions": [
+    "99.9.2"
+  ],
   "allowDowngrade": false,
   "force": false,
   "forceAfter": "",
   "rolloutPercent": 0,
-  "rolloutSalt": "1.9.2",
+  "rolloutSalt": "1.9.3",
   "recheckIntervalMinutes": 240,
-  "publishedAt": "2026-11-04T02:59:51Z",
+  "publishedAt": "2026-11-13T13:37:15Z",
   "title": "修复比特浏览器批量启动失败",
   "notes": "1. 修复比特浏览器同时启动多个窗口时提示「浏览器启动失败」\n2. 优化部分报错提示\n3. 修复检查账号信息api失效导致的其他bug",
-  "releasePageUrl": "https://github.com/lindaehuhq/dzhushou-releases/releases/tag/v1.9.2",
+  "releasePageUrl": "https://github.com/lindaehuhq/dzhushou-releases/releases/tag/v1.9.3",
   "assets": {
     "windows-amd64": {
-      "fileName": "dzhushou-1.9.2-windows-amd64.exe",
-      "size": 8157728,
-      "sha256": "59e3c494bec2e5deb59b1ea0e50ce8324ca5da4659a1d0318225bef021090357",
+      "fileName": "dzhushou-1.9.3-windows-amd64.exe",
+      "size": 8094752,
+      "sha256": "8822e0ebb85c40e92e489af89b14335021f67ffe8fe6c03dc7e948d01232d183",
       "downloadUrls": [
-        "https://gh-proxy.com/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.2/dzhushou-1.9.2-windows-amd64.exe",
-        "https://ghfast.top/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.2/dzhushou-1.9.2-windows-amd64.exe",
-        "https://ghproxy.net/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.2/dzhushou-1.9.2-windows-amd64.exe",
-        "https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.2/dzhushou-1.9.2-windows-amd64.exe"
+        "https://gh-proxy.com/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.3/dzhushou-1.9.3-windows-amd64.exe",
+        "https://ghfast.top/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.3/dzhushou-1.9.3-windows-amd64.exe",
+        "https://ghproxy.net/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.3/dzhushou-1.9.3-windows-amd64.exe",
+        "https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.3/dzhushou-1.9.3-windows-amd64.exe"
       ]
     }
   },
