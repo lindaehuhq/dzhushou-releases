@@ -2,19 +2,19 @@
   "schemaVersion": 2,
   "productId": "dzhushou",
   "channel": "stable",
-  "revision": 14,
-  "generatedAt": "2026-11-13T18:30:59Z",
+  "revision": 15,
+  "generatedAt": "2026-11-13T18:32:33Z",
   "enabled": true,
   "latestVersion": "1.9.3",
   "build": 2,
   "minimumVersion": "",
   "blockedVersions": [
-    "99.9.2"
+    "1.9.3"
   ],
   "allowDowngrade": false,
   "force": false,
   "forceAfter": "",
-  "rolloutPercent": 0,
+  "rolloutPercent": 100,
   "rolloutSalt": "1.9.3",
   "recheckIntervalMinutes": 240,
   "publishedAt": "2026-11-13T18:30:53Z",
