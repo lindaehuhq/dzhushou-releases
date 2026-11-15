@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "productId": "dzhushou",
   "channel": "stable",
-  "revision": 16,
-  "generatedAt": "2026-11-15T17:34:28Z",
+  "revision": 17,
+  "generatedAt": "2026-11-15T17:35:52Z",
   "enabled": true,
   "latestVersion": "1.9.4",
   "build": 1,
@@ -33,9 +33,9 @@
     }
   },
   "announcement": {
-    "enabled": false,
-    "id": "",
-    "message": "",
+    "enabled": true,
+    "id": "6c57c6c36d95",
+    "message": "1.9.4 已发布，新增金手指平台，请及时更新。",
     "startsAt": "",
     "endsAt": ""
   }
