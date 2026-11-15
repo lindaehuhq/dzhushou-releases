@@ -2,35 +2,33 @@
   "schemaVersion": 2,
   "productId": "dzhushou",
   "channel": "stable",
-  "revision": 15,
-  "generatedAt": "2026-11-13T18:32:33Z",
+  "revision": 16,
+  "generatedAt": "2026-11-15T17:34:28Z",
   "enabled": true,
-  "latestVersion": "1.9.3",
-  "build": 2,
+  "latestVersion": "1.9.4",
+  "build": 1,
   "minimumVersion": "",
-  "blockedVersions": [
-    "1.9.3"
-  ],
+  "blockedVersions": [],
   "allowDowngrade": false,
   "force": false,
   "forceAfter": "",
   "rolloutPercent": 100,
-  "rolloutSalt": "1.9.3",
+  "rolloutSalt": "1.9.4",
   "recheckIntervalMinutes": 240,
-  "publishedAt": "2026-11-13T18:30:53Z",
-  "title": "修复比特浏览器批量启动失败",
-  "notes": "1. 修复比特浏览器同时启动多个窗口时提示「浏览器启动失败」\n2. 优化部分报错提示\n3. 修复检查账号信息api失效导致的其他bug",
-  "releasePageUrl": "https://github.com/lindaehuhq/dzhushou-releases/releases/tag/v1.9.3-b2",
+  "publishedAt": "2026-11-15T17:34:20Z",
+  "title": "新增金手指平台",
+  "notes": "1. 新增金手指平台\n2. 更新平台最新接口",
+  "releasePageUrl": "https://github.com/lindaehuhq/dzhushou-releases/releases/tag/v1.9.4",
   "assets": {
     "windows-amd64": {
-      "fileName": "dzhushou-1.9.3-windows-amd64.exe",
-      "size": 8094240,
-      "sha256": "28b5056c9fb01c0171a4362fd6b8ad0cb5fb290884fe97861801c7178d913b8c",
+      "fileName": "dzhushou-1.9.4-windows-amd64.exe",
+      "size": 8108064,
+      "sha256": "4fd1f53464f89800ee8bd46499219d983163afccd9395081d9d47fa1a3db58e4",
       "downloadUrls": [
-        "https://gh-proxy.com/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.3-b2/dzhushou-1.9.3-windows-amd64.exe",
-        "https://ghfast.top/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.3-b2/dzhushou-1.9.3-windows-amd64.exe",
-        "https://ghproxy.net/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.3-b2/dzhushou-1.9.3-windows-amd64.exe",
-        "https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.3-b2/dzhushou-1.9.3-windows-amd64.exe"
+        "https://gh-proxy.com/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.4/dzhushou-1.9.4-windows-amd64.exe",
+        "https://ghfast.top/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.4/dzhushou-1.9.4-windows-amd64.exe",
+        "https://ghproxy.net/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.4/dzhushou-1.9.4-windows-amd64.exe",
+        "https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.4/dzhushou-1.9.4-windows-amd64.exe"
       ]
     }
   },
