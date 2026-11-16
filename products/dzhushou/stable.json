@@ -2,10 +2,10 @@
   "schemaVersion": 2,
   "productId": "dzhushou",
   "channel": "stable",
-  "revision": 20,
-  "generatedAt": "2026-11-16T06:43:12Z",
+  "revision": 21,
+  "generatedAt": "2026-11-16T14:42:38Z",
   "enabled": true,
-  "latestVersion": "1.9.5",
+  "latestVersion": "1.9.6",
   "build": 1,
   "minimumVersion": "",
   "blockedVersions": [],
@@ -13,29 +13,29 @@
   "force": true,
   "forceAfter": "",
   "rolloutPercent": 100,
-  "rolloutSalt": "1.9.5",
+  "rolloutSalt": "1.9.6",
   "recheckIntervalMinutes": 240,
-  "publishedAt": "2026-11-16T05:58:38Z",
-  "title": "修复已知问题",
-  "notes": "1. 修复已知问题\n2.新增金手指平台 可直接在平台客服面板开户",
-  "releasePageUrl": "https://github.com/lindaehuhq/dzhushou-releases/releases/tag/v1.9.5",
+  "publishedAt": "2026-11-16T14:42:12Z",
+  "title": "新增多个 App，修复抖音点赞",
+  "notes": "1. 新增 B站、快手、头条、小红书\n2. 修复抖音点赞等问题，如果点赞有问题请更新\n3. 优化平台接口",
+  "releasePageUrl": "https://github.com/lindaehuhq/dzhushou-releases/releases/tag/v1.9.6",
   "assets": {
     "windows-amd64": {
-      "fileName": "dzhushou-1.9.5-windows-amd64.exe",
+      "fileName": "dzhushou-1.9.6-windows-amd64.exe",
       "size": 8096800,
-      "sha256": "47feda2c871424841fa8f7aefa5e1f9bcf47c866bc6d53a6891aa5f23e40a708",
+      "sha256": "bcde1685c106c402d792279f12fc4cebbca4a1a1211a9597c63d6fcc0ccb34b7",
       "downloadUrls": [
-        "https://gh-proxy.com/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.5/dzhushou-1.9.5-windows-amd64.exe",
-        "https://ghfast.top/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.5/dzhushou-1.9.5-windows-amd64.exe",
-        "https://ghproxy.net/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.5/dzhushou-1.9.5-windows-amd64.exe",
-        "https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.5/dzhushou-1.9.5-windows-amd64.exe"
+        "https://gh-proxy.com/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.6/dzhushou-1.9.6-windows-amd64.exe",
+        "https://ghfast.top/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.6/dzhushou-1.9.6-windows-amd64.exe",
+        "https://ghproxy.net/https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.6/dzhushou-1.9.6-windows-amd64.exe",
+        "https://github.com/lindaehuhq/dzhushou-releases/releases/download/v1.9.6/dzhushou-1.9.6-windows-amd64.exe"
       ]
     }
   },
   "announcement": {
-    "enabled": true,
-    "id": "e7f2e7ea5443",
-    "message": "1.9.5 已发布，修复已知问题，请及时更新。",
+    "enabled": false,
+    "id": "",
+    "message": "",
     "startsAt": "",
     "endsAt": ""
   }
