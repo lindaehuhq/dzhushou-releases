@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "productId": "dzhushou",
   "channel": "stable",
-  "revision": 18,
-  "generatedAt": "2026-11-16T05:58:44Z",
+  "revision": 19,
+  "generatedAt": "2026-11-16T06:04:41Z",
   "enabled": true,
   "latestVersion": "1.9.5",
   "build": 1,
@@ -33,9 +33,9 @@
     }
   },
   "announcement": {
-    "enabled": false,
-    "id": "",
-    "message": "",
+    "enabled": true,
+    "id": "e7f2e7ea5443",
+    "message": "1.9.5 已发布，修复已知问题，请及时更新。",
     "startsAt": "",
     "endsAt": ""
   }
