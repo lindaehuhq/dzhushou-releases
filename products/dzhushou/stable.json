@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "productId": "dzhushou",
   "channel": "stable",
-  "revision": 19,
-  "generatedAt": "2026-11-16T06:04:41Z",
+  "revision": 20,
+  "generatedAt": "2026-11-16T06:43:12Z",
   "enabled": true,
   "latestVersion": "1.9.5",
   "build": 1,
@@ -17,7 +17,7 @@
   "recheckIntervalMinutes": 240,
   "publishedAt": "2026-11-16T05:58:38Z",
   "title": "修复已知问题",
-  "notes": "1. 修复已知问题",
+  "notes": "1. 修复已知问题\n2.新增金手指平台 可直接在平台客服面板开户",
   "releasePageUrl": "https://github.com/lindaehuhq/dzhushou-releases/releases/tag/v1.9.5",
   "assets": {
     "windows-amd64": {
