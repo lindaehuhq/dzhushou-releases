@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "productId": "dzhushou",
   "channel": "stable",
-  "revision": 21,
-  "generatedAt": "2026-11-16T14:42:38Z",
+  "revision": 22,
+  "generatedAt": "2026-11-16T15:22:09Z",
   "enabled": true,
   "latestVersion": "1.9.6",
   "build": 1,
@@ -33,9 +33,9 @@
     }
   },
   "announcement": {
-    "enabled": false,
-    "id": "",
-    "message": "",
+    "enabled": true,
+    "id": "ea0363464c2a",
+    "message": "关于 D助手 近期版本更新较频繁的说明\n各位用户：\n近期 D助手 更新比较频繁，给大家带来了不便，在此说明一下。\n这几次更新主要做了三件事： 一是新增 B站、快手、头条、小红书，加上原有的抖音，现在一个软件可以做五个 App； 二是新增金手指平台，并优化了各接单平台的接口； 三是修复了点赞等问题。\n\n为了让大家都用上正常的版本，部分版本设成了强制更新，打开软件后按提示点更新即可。如果点赞还有问题，请先确认已经升到最新版本。\n后续我们会尽量把改动合并发布，减少更新次数。感谢大家的理解和支持。",
     "startsAt": "",
     "endsAt": ""
   }
